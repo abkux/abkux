@@ -3,7 +3,7 @@
 - You can contact me on my **[Discord Server](https://click.abku.xyz/discord)** or mail me at **hi@abku.dev**.
 - I am currently learning **JavaScript**.
 
-  
+# Discord  
 [![Discord Presence](https://lanyard.cnrad.dev/api/475293481494118401)](https://discord.com/users/475293481494118401)
 
 # Things I Know About: 
