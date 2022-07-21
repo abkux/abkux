@@ -4,10 +4,7 @@
 - I am currently learning **JavaScript**.
 
   
-# Discord activity:
-<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/475293481494118401)](https://discord.com/users/475293481494118401)
-</div>
 
 # Things I Know About: 
 <p align="center">
