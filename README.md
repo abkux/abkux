@@ -6,7 +6,7 @@
   
 # Discord activity:
 <div align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/475293481494118401">
+<img src="https://api.lanyard.rest/v1/users/475293481494118401">
 </div>
 
 # Things I Know About: 
