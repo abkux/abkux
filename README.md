@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek.</h1>
 
-- You can contact me on my **[Discord Server](https://abku.xyz/discord)** or mail me at **hey@abku.dev**.
+- You can contact me on my **[Discord Server](https://click.abku.xyz/discord)** or mail me at **hi@abku.dev**.
 - I am currently learning **JavaScript**.
 
   
