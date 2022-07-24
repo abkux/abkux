@@ -16,6 +16,6 @@
 </p>
 
 # Connect:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://link.abku.xyz/discord)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://abku.xyz/discord)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://abku.xyz/twitter)<br>
 
