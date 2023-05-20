@@ -8,13 +8,18 @@
 - Learning C++! 
 
 
-TeachStack:
+#### TeachStack:
+
 JavaScript, NodeJs, MongoDB, SQL, Python, HTML, CSS, TailwindCSS
 
 
 
-Tools: 
+#### Tools: 
+
 Visual Studio Code, Sublime Text 3, DataGrip, Postman
 
-Technologies Used: 
-Cloudflare Pages, Cloudflare R2, AWS Lightsail, Nginx
+#### Technologies Used: 
+
+Cloudflare Pages, Cloudflare R2, AWS Lightsail, Nginx, CockroachDB 
+
+My Discord : [Discord](https://to.abku.dev/abku)
