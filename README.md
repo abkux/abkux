@@ -4,7 +4,7 @@
 
 
 - Currently working on **[Emofy](http://emofy.abku.dev)**.
-- Contact : **[hello@abku.dev](mailto:hello@abku.dev)**.
+- Contact : **[hello@abku.dev](mailto:theabku@gmail.com)**.
 - Learning C++! 
 
 
