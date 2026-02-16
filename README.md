@@ -51,12 +51,4 @@ A Discord bot that helps creators display live social media stats
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abkux&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abkux&layout=compact&theme=dark&hide_border=true)
-
----
-
 ⭐ *Always learning. Always rebuilding.*
