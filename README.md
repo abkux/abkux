@@ -3,6 +3,7 @@
 💻 **SDE Intern**  
 🚀 Backend enthusiast learning **Golang**  
 🔧 Currently rebuilding **Emofy** (yes… again 😄)
+🔌 Breaking and fixing hardware in my free time
 
 ---
 
