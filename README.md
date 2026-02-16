@@ -1,4 +1,8 @@
 # 💫 About Me:
+Hey, I am Abhishek. Working as SDE Intern!
+I'm learning Golang these days for backend developmenet.
+In free time I am also re-writing Emofy. ( yes, again! )
+
 🔭 I’m currently working on Emofy<br>🤝 I’m looking for help with Spring Boot<br>🌱 I’m currently learning Java / Spring Boot<br>
 
 
