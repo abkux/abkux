@@ -47,7 +47,7 @@ A Discord bot that helps creators display live social media stats
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: abhishek@abku.dev 
+- 📧 Email: abku@abku.dev 
 - 💬 Discord: https://discord.gg/Jhy585K853
 
 ---
