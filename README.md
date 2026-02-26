@@ -18,10 +18,10 @@
 ## 🛠 Tech Stack
 
 ### Languages
-JavaScript • Go (learning) • C++
+JavaScript • Java (learning) • C++
 
 ### Backend
-Node.js • Express • REST APIs • JWT
+Node.js • Express • REST APIs • JWT • Spring Boot(learning)
 
 ### Frontend
 React • Next.js • TailwindCSS • Vite
@@ -30,7 +30,7 @@ React • Next.js • TailwindCSS • Vite
 PostgreSQL • MongoDB • MySQL • Redis • Supabase
 
 ### Cloud & DevOps
-AWS • Cloudflare • DigitalOcean • Nginx • Vercel • Docker*
+AWS Lightsail • Cloudflare • DigitalOcean • Nginx • Vercel • Docker*
 
 ---
 
