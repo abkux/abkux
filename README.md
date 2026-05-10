@@ -1,7 +1,7 @@
 # Hi 👋 I'm Abhishek
 
 💻 **SDE Intern**  
-🚀 Backend enthusiast learning **Java** & **Spring Boot**  
+🚀 Backend enthusiast learning **GoLang**  
 🔧 Currently rebuilding **Emofy** (yes… again 😄)
 🔌 Breaking and fixing hardware in my free time
 
